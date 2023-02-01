@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 10px;
+    margin: 10px;
+}
+
+.source{
+    padding: 20px;
+    border: 1px solid;
+}
+
+.sink{
+    padding: 20px;
+    border: 1px solid;
+}
